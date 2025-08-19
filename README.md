@@ -22,7 +22,7 @@ An AI-powered LinkedIn profile analyzer that automatically finds profiles, extra
 
 ```bash
 git clone https://github.com/uygaraydin/ice-breaker.git
-cd ice-breaker
+cd ice_breaker
 pipenv install
 pipenv shell
 ```
