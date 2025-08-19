@@ -1,0 +1,8 @@
+flask
+langchain
+langchain-community
+langchain-openai
+langchain-core
+pydantic
+python-dotenv
+requests
